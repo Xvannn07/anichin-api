@@ -49,7 +49,7 @@ get_genre_all().then((json) => {
 });
 
 // getting donghua genre for anichin
-const quers = 'magic';
+const querys = 'magic';
 genre(querys).then((json) => {
   console.log(json);
 });
