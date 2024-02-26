@@ -1,6 +1,6 @@
 ## Anichin - API
 
-![](https://asset-2.tstatic.net/bengkulu/foto/bank/images/Anichin-Apk-Download-Sepuasnya-Anime-Donghua-atau-China-Gratis-Semua-Genre-Tersedia-Lengkap.jpg)
+![]([https://asset-2.tstatic.net/bengkulu/foto/bank/images/Anichin-Apk-Download-Sepuasnya-Anime-Donghua-atau-China-Gratis-Semua-Genre-Tersedia-Lengkap.jpg](https://i.ibb.co/R02tVmL/Anichin-Apk-Download-Sepuasnya-Anime-Donghua-atau-China-Gratis-Semua-Genre-Tersedia-Lengkap-removebg.png))
 
 ```sh
 npm install @xvannn07/anichin-api
