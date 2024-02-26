@@ -1,6 +1,6 @@
 ## Anichin - API
 
-![]([https://asset-2.tstatic.net/bengkulu/foto/bank/images/Anichin-Apk-Download-Sepuasnya-Anime-Donghua-atau-China-Gratis-Semua-Genre-Tersedia-Lengkap.jpg](https://i.ibb.co/R02tVmL/Anichin-Apk-Download-Sepuasnya-Anime-Donghua-atau-China-Gratis-Semua-Genre-Tersedia-Lengkap-removebg.png))
+![](https://i.ibb.co/R02tVmL/Anichin-Apk-Download-Sepuasnya-Anime-Donghua-atau-China-Gratis-Semua-Genre-Tersedia-Lengkap-removebg.png)
 
 ```sh
 npm install @xvannn07/anichin-api
@@ -77,9 +77,9 @@ Don't forget to give the repo a star! Thanks again!
 
 ## Contributor
 
-Xvannn - [Xvannn07](https://github.com/xvannn07)
-Arip - [Arip](https://github.com/rippanteq7)
+1. Xvannn - [Xvannn07](https://github.com/xvannn07)
+2. Arip - [Arip](https://github.com/rippanteq7)
 
 ## Contact
 
-David - [@xvannn07](https://t.me/@Xvannn07)
+Xvannn - [@xvannn07](https://t.me/@Xvannn07)
