@@ -1,0 +1,25 @@
+{
+  "name": "anichin",
+  "version": "1.0.0",
+  "description": "anichin api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xvannn07"
+  },
+  "keywords": [
+    "anichin-api",
+    "commonjs",
+    "anichin-scrapper"
+  ],
+  "author": "Xvannn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0"
+  }
+}
