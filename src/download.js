@@ -1,10 +1,10 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 
-async function GetDownload() {
+async function GetDownload(urls) {
     let res = await axios.request({
         method: "GET",
-        url: 'https://anichin.plus/soul-land-2-the-unrivaled-tang-sect-episode-17-subtitle-indonesia/',
+        url: urls,
         headers: {
             "Referer": "https://anichin.plus/"
         }
