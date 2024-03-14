@@ -23,7 +23,7 @@ const { search } = require('@xvannn07/anichin-api');
 #### 3. Example
 
 ```js
-const { search, detail, download_eps, get_genre_all, genre, get_popular, get_realese } = require('@xct007/tiktok-scraper');
+const { search, detail, download_eps, get_genre_all, genre, get_popular, get_realese } = require('anichin');
 
 // searching donghua for anichin
 const querys = 'soul land 2';
